@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
@@ -82,6 +82,9 @@
 
 ###
 
+<h2 align="left"> 🐍 </h4>
+
+###
 <img src="https://raw.githubusercontent.com/anagonzalezz/AnaGonzalez/output/snake.svg" alt="Snake animation" />
 
 ###
