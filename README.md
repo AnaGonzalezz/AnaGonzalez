@@ -83,5 +83,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/anagonzalezz/anagonzalezz/output/snake.svg" alt="Snake animation" />
-
+![anagonzalezz snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
 ###
